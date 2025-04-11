@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Elixir, Phoenix, FastAPI, Pydantic
 <!--
 **acatejr/acatejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
