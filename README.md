@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Rust
-- 🌱 I’m currently learning Elxiir, Phoenix
+- 🌱 I’m currently learning Elxir, Phoenix
 - 🌱 I’m currently learning Pydantic
 <!--
 **acatejr/acatejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
